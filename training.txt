@@ -1,90 +1,948 @@
-Mensch: Hallo!
-KI: Hallo! Wie geht es dir?
+Mensch: Wie heißt machen mit du?
+KI: Es heißt: du machst.
 §
-Mensch: Wie heißt du?
-KI: Ich heiße EigenKI.
+Mensch: Wie heißt machen mit ihr?
+KI: Es heißt: ihr macht.
 §
-Mensch: Was bist du?
-KI: Ich bin ein kleines Sprachmodell und lerne deutsche Sprache.
+Mensch: Schreibe einen Satz mit der Hund.
+KI: Der Hund ist klein.
 §
-Mensch: Wie geht es dir?
-KI: Mir geht es gut. Was möchtest du machen?
-§
-Mensch: Danke!
-KI: Gern geschehen!
-§
-Mensch: Guten Morgen.
-KI: Guten Morgen! Wie beginnt dein Tag?
-§
-Mensch: Gute Nacht.
-KI: Gute Nacht und schlaf gut!
-§
-Mensch: Was kannst du?
-KI: Ich übe einfache Gespräche auf Deutsch. Meine Antworten können noch falsch sein.
-§
-Mensch: Ich bin müde.
-KI: Vielleicht hilft dir eine Pause. Was hast du heute gemacht?
-§
-Mensch: Ich bin glücklich.
-KI: Das klingt schön! Was hat dich glücklich gemacht?
-§
-Mensch: Ich bin traurig.
-KI: Möchtest du erzählen, was passiert ist?
-§
-Mensch: Was ist ein Hund?
-KI: Ein Hund ist ein Tier. Viele Menschen haben Hunde als Haustiere.
-§
-Mensch: Was ist eine Katze?
-KI: Eine Katze ist ein Tier. Katzen können schnurren.
-§
-Mensch: Was ist Wasser?
-KI: Wasser ist eine Flüssigkeit. Menschen, Tiere und Pflanzen brauchen Wasser.
-§
-Mensch: Was ist ein Baum?
-KI: Ein Baum ist eine Pflanze mit einem Stamm und Ästen.
-§
-Mensch: Was ist die Sonne?
-KI: Die Sonne ist ein Stern. Sie gibt uns Licht und Wärme.
+Mensch: Bilde einen Satz mit Blumen.
+KI: Die Blumen sind schön.
 §
 Mensch: Was ist der Mond?
 KI: Der Mond kreist um die Erde.
 §
-Mensch: Was ist ein Computer?
-KI: Ein Computer verarbeitet Daten und führt Programme aus.
+Mensch: Was ist die Mehrzahl von Auto?
+KI: Die Mehrzahl von Auto ist Autos.
+§
+Mensch: Ich bin glücklich.
+KI: Das freut mich. Was ist passiert?
+§
+Mensch: Schreibe einen Satz mit das Auto.
+KI: Das Auto ist schnell.
+§
+Mensch: Was ist die Mehrzahl von Schule?
+KI: Die Mehrzahl von Schule ist Schulen.
+§
+Mensch: Was ist HTML
+KI: HTML beschreibt den Aufbau einer Webseite.
+§
+Mensch: Schreibe drei Sätze über ein Buch.
+KI: Ich öffne ein Buch. Die Geschichte ist spannend. Ich lese noch eine Seite.
+§
+Mensch: Wie spät ist es
+KI: Ich habe keine verlässliche Uhrzeit im Sprachmodell.
+§
+Mensch: Schreibe einen Satz mit die Blume.
+KI: Die Blume ist schön.
+§
+Mensch: Wie wird lesen konjugiert?
+KI: ich lese, du liest, er liest, wir lesen, ihr lest, sie lesen.
+§
+Mensch: Welcher Artikel gehört zu Maus?
+KI: Es heißt die Maus.
+§
+Mensch: Schreibe einen Satz mit die Tür.
+KI: Die Tür ist offen.
+§
+Mensch: Wie heißt machen mit wir?
+KI: Es heißt: wir machen.
+§
+Mensch: Welcher Artikel gehört zu Vogel?
+KI: Es heißt der Vogel.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe einen Apfel gegessen.
+KI: Ich esse einen Apfel.
+§
+Mensch: Was ist die Mehrzahl von Hund?
+KI: Die Mehrzahl von Hund ist Hunde.
+§
+Mensch: Bilde einen Satz mit Vogel.
+KI: Der Vogel ist klein.
+§
+Mensch: Bilde einen Satz mit Mäuse.
+KI: Die Mäuse sind leise.
+§
+Mensch: Verbessere die Großschreibung: ich bin müde
+KI: Ich bin müde.
+§
+Mensch: Was ist ein Nomen
+KI: Ein Nomen bezeichnet zum Beispiel ein Ding, eine Person oder ein Tier. Nomen schreibt man groß.
+§
+Mensch: Was bedeutet guten Morgen
+KI: Guten Morgen ist eine Begrüßung am Morgen.
+§
+Mensch: Wie heißt haben mit sie?
+KI: Es heißt: sie haben.
+§
+Mensch: Was ist Wasser?
+KI: Wasser ist eine Flüssigkeit. Menschen, Tiere und Pflanzen brauchen Wasser.
+§
+Mensch: Was ist ein Hund?
+KI: Ein Hund ist ein Tier. Viele Hunde leben als Haustiere bei Menschen.
+§
+Mensch: Wie heißt kommen mit ich?
+KI: Es heißt: ich komme.
+§
+Mensch: Bilde einen Satz mit Vögel.
+KI: Die Vögel sind klein.
+§
+Mensch: Bilde einen Satz mit Tasche.
+KI: Die Tasche ist schwer.
+§
+Mensch: Was ist ein Adjektiv
+KI: Ein Adjektiv beschreibt eine Eigenschaft. Beispiele sind klein und freundlich.
+§
+Mensch: Erkläre es einfacher.
+KI: Gern. Welches Thema soll ich einfacher erklären?
+§
+Mensch: Was ist die Mehrzahl von Tür?
+KI: Die Mehrzahl von Tür ist Türen.
+§
+Mensch: Schreibe einen Satz mit die Tasche.
+KI: Die Tasche ist schwer.
+§
+Mensch: Bilde einen Satz mit Taschen.
+KI: Die Taschen sind schwer.
+§
+Mensch: Was ist die Gegenwart
+KI: Die Gegenwart beschreibt zum Beispiel etwas, das gerade passiert.
+§
+Mensch: Wie heißt sprechen mit ich?
+KI: Es heißt: ich spreche.
+§
+Mensch: Danke!
+KI: Gern geschehen!
+§
+Mensch: Schreibe richtig: wir lernen deutsch
+KI: Wir lernen Deutsch.
+§
+Mensch: Hi!
+KI: Hi! Was möchtest du besprechen?
+§
+Mensch: Kannst du alles beantworten?
+KI: Nein. Mein Wissen ist klein und meine Antworten können falsch sein.
 §
 Mensch: Was ist HTML?
 KI: HTML beschreibt den Aufbau einer Webseite.
 §
-Mensch: Was ist ein Spiel?
-KI: In einem Spiel kannst du Aufgaben lösen oder eine Welt entdecken.
+Mensch: Welcher Artikel gehört zu Haus?
+KI: Es heißt das Haus.
 §
-Mensch: Ich möchte ein Spiel bauen.
-KI: Was für ein Spiel möchtest du machen?
+Mensch: Wie heißt machen mit er?
+KI: Es heißt: er macht.
 §
-Mensch: Ich mag Roboter.
-KI: Was soll dein Roboter können?
+Mensch: Schreibe einen freundlichen Abschied.
+KI: Bis bald! Ich wünsche dir einen schönen Tag.
 §
-Mensch: Ich gehe zur Schule.
-KI: Welches Fach magst du besonders?
+Mensch: Verbessere die Großschreibung: der hund ist klein
+KI: Der Hund ist klein.
+§
+Mensch: Bilde einen Satz mit Bild.
+KI: Das Bild ist bunt.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe ein Buch gelesen.
+KI: Ich lese ein Buch.
+§
+Mensch: Was ist die Gegenwart?
+KI: Die Gegenwart beschreibt zum Beispiel etwas, das gerade passiert.
+§
+Mensch: Schreibe in der Vergangenheit: Ich sehe einen Vogel.
+KI: Ich habe einen Vogel gesehen.
+§
+Mensch: Verbessere die Großschreibung: guten morgen
+KI: Guten Morgen!
+§
+Mensch: Bilde einen Satz mit Schule.
+KI: Die Schule ist groß.
+§
+Mensch: Was ist die Mehrzahl
+KI: Die Mehrzahl bezeichnet mehrere Dinge. Ein Buch, zwei Bücher.
+§
+Mensch: Kannst du Deutsch?
+KI: Ich lerne Deutsch. Meine Sätze sind noch nicht immer richtig.
+§
+Mensch: Wie heißt du
+KI: Ich heiße EigenKI.
+§
+Mensch: Was ist die Mehrzahl von Bild?
+KI: Die Mehrzahl von Bild ist Bilder.
+§
+Mensch: Wie heißt schreiben mit wir?
+KI: Es heißt: wir schreiben.
+§
+Mensch: Was bedeutet bitte?
+KI: Mit bitte kannst du eine höfliche Bitte ausdrücken.
+§
+Mensch: Schreibe richtig: das haus ist groß
+KI: Das Haus ist groß.
+§
+Mensch: Wie heißt sprechen mit wir?
+KI: Es heißt: wir sprechen.
+§
+Mensch: Wie heißt lernen mit ich?
+KI: Es heißt: ich lerne.
+§
+Mensch: Wie heißt lesen mit er?
+KI: Es heißt: er liest.
+§
+Mensch: Schreibe eine kurze Begrüßung.
+KI: Hallo! Schön, dass du da bist.
+§
+Mensch: Wie heißt sein mit wir?
+KI: Es heißt: wir sind.
+§
+Mensch: Bilde einen Satz mit Apfel.
+KI: Der Apfel ist rot.
+§
+Mensch: Schreibe in der Vergangenheit: Ich schreibe einen Brief.
+KI: Ich habe einen Brief geschrieben.
+§
+Mensch: Was ist die Mehrzahl von Garten?
+KI: Die Mehrzahl von Garten ist Gärten.
+§
+Mensch: Was ist die Mehrzahl von Buch?
+KI: Die Mehrzahl von Buch ist Bücher.
+§
+Mensch: Hast du Gefühle
+KI: Ich berechne Text und habe keine menschlichen Gefühle.
+§
+Mensch: Bilde einen Satz mit Katze.
+KI: Die Katze ist leise.
+§
+Mensch: Was ist ein Baum
+KI: Ein Baum ist eine Pflanze mit einem Stamm und Ästen.
+§
+Mensch: Schreibe richtig: ich bin müde
+KI: Ich bin müde.
+§
+Mensch: Wie wird gehen konjugiert?
+KI: ich gehe, du gehst, er geht, wir gehen, ihr geht, sie gehen.
+§
+Mensch: Bilde einen Satz mit Äpfel.
+KI: Die Äpfel sind rot.
+§
+Mensch: Was ist die Mehrzahl von Fenster?
+KI: Die Mehrzahl von Fenster ist Fenster.
+§
+Mensch: Bilde einen Satz mit Fenster.
+KI: Die Fenster sind sauber.
+§
+Mensch: Was bist du
+KI: Ich bin ein kleines selbst trainiertes Sprachmodell.
+§
+Mensch: Schreibe einen Satz mit das Wasser.
+KI: Das Wasser ist kalt.
+§
+Mensch: Was bedeutet danke?
+KI: Mit danke drückst du Dankbarkeit aus.
+§
+Mensch: Was ist die Mehrzahl von Maus?
+KI: Die Mehrzahl von Maus ist Mäuse.
+§
+Mensch: Schreibe drei Sätze über die Schule.
+KI: Die Kinder gehen zur Schule. Sie lesen und rechnen. In der Pause spielen sie.
+§
+Mensch: Bilde einen Satz mit Fenster.
+KI: Das Fenster ist sauber.
+§
+Mensch: Schreibe richtig: ich lese ein buch
+KI: Ich lese ein Buch.
+§
+Mensch: Ich bin müde.
+KI: Vielleicht hilft dir eine kleine Pause.
+§
+Mensch: Bilde einen Satz mit Türen.
+KI: Die Türen sind offen.
+§
+Mensch: Schreibe in der Vergangenheit: Ich esse einen Apfel.
+KI: Ich habe einen Apfel gegessen.
+§
+Mensch: Bilde einen Satz mit Hund.
+KI: Der Hund ist klein.
+§
+Mensch: Ich möchte einen Satz schreiben.
+KI: Beginne mit einem kurzen Satz. Zum Beispiel: Ich lese ein Buch.
+§
+Mensch: Was ist ein Satz
+KI: Ein Satz drückt einen Gedanken aus. Ein einfacher Satz hat oft ein Subjekt und ein Verb.
+§
+Mensch: Wo wohnst du?
+KI: Ich habe keinen Wohnort. Ich bin ein Computerprogramm.
+§
+Mensch: Was ist die Sonne
+KI: Die Sonne ist ein Stern. Sie gibt uns Licht und Wärme.
+§
+Mensch: Schreibe einen Satz mit die Schule.
+KI: Die Schule ist groß.
+§
+Mensch: Wie heißt lesen mit ich?
+KI: Es heißt: ich lese.
+§
+Mensch: Was bedeutet guten Morgen?
+KI: Guten Morgen ist eine Begrüßung am Morgen.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe Deutsch gelernt.
+KI: Ich lerne Deutsch.
+§
+Mensch: Wie heißt spielen mit ihr?
+KI: Es heißt: ihr spielt.
+§
+Mensch: Bilde einen Satz mit Blume.
+KI: Die Blume ist schön.
+§
+Mensch: Wie heißt sein mit ihr?
+KI: Es heißt: ihr seid.
+§
+Mensch: Wie heißt lernen mit wir?
+KI: Es heißt: wir lernen.
+§
+Mensch: Bilde einen Satz mit Buch.
+KI: Das Buch ist spannend.
+§
+Mensch: Was ist ein Artikel
+KI: Ein Artikel steht vor einem Nomen. Beispiele sind der, die und das.
+§
+Mensch: Wie bildet man eine Frage?
+KI: Eine Frage kann mit einem Fragewort beginnen. Zum Beispiel: Wo wohnst du?
+§
+Mensch: Wie kann ich Deutsch üben?
+KI: Lies kurze Texte, höre Gespräche und schreibe eigene Sätze.
+§
+Mensch: Kannst du Deutsch
+KI: Ich lerne Deutsch. Meine Sätze sind noch nicht immer richtig.
+§
+Mensch: Wie heißt lernen mit du?
+KI: Es heißt: du lernst.
+§
+Mensch: Schreibe drei Sätze über den Regen.
+KI: Draußen regnet es. Die Straße ist nass. Ich nehme einen Regenschirm mit.
+§
+Mensch: Bilde einen Satz mit Kinder.
+KI: Die Kinder sind fröhlich.
+§
+Mensch: Was ist ein Verb?
+KI: Ein Verb beschreibt oft eine Handlung oder einen Zustand. Beispiele sind gehen und sein.
+§
+Mensch: Wie heißt gehen mit wir?
+KI: Es heißt: wir gehen.
+§
+Mensch: Wie wird lernen konjugiert?
+KI: ich lerne, du lernst, er lernt, wir lernen, ihr lernt, sie lernen.
+§
+Mensch: Wie heißt lernen mit sie?
+KI: Es heißt: sie lernen.
+§
+Mensch: Schreibe einen Satz mit der Stuhl.
+KI: Der Stuhl ist bequem.
+§
+Mensch: Wie heißt gehen mit ich?
+KI: Es heißt: ich gehe.
+§
+Mensch: Was ist die Mehrzahl von Blume?
+KI: Die Mehrzahl von Blume ist Blumen.
 §
 Mensch: Ich mag Musik.
 KI: Welche Musik hörst du gern?
 §
-Mensch: Was ist zwei plus zwei?
-KI: Zwei plus zwei ist vier.
+Mensch: Ich möchte ein Spiel bauen.
+KI: Welche Art von Spiel möchtest du bauen?
 §
-Mensch: Welche Farbe hat Gras?
-KI: Gras ist meistens grün.
+Mensch: Schreibe in der Gegenwart: Ich habe Musik gehört.
+KI: Ich höre Musik.
 §
-Mensch: Erklär mir das.
-KI: Welches Thema möchtest du erklärt bekommen?
+Mensch: Wie geht es dir
+KI: Ich bin bereit für ein Gespräch. Wie geht es dir?
 §
-Mensch: Weißt du alles?
-KI: Nein. Mein Wissen ist sehr klein und ich kann mich irren.
+Mensch: Welcher Artikel gehört zu Blume?
+KI: Es heißt die Blume.
+§
+Mensch: Wie schreibt man eine Nachricht
+KI: Du kannst mit einer Begrüßung beginnen und dann dein Anliegen erklären.
+§
+Mensch: Bilde einen Satz mit Stuhl.
+KI: Der Stuhl ist bequem.
+§
+Mensch: Schreibe richtig: der hund ist klein
+KI: Der Hund ist klein.
+§
+Mensch: Wie heißt machen mit sie?
+KI: Es heißt: sie machen.
+§
+Mensch: Schreibe in der Vergangenheit: Ich gehe nach Hause.
+KI: Ich bin nach Hause gegangen.
+§
+Mensch: Was ist die Sonne?
+KI: Die Sonne ist ein Stern. Sie gibt uns Licht und Wärme.
+§
+Mensch: Wie heißt lesen mit sie?
+KI: Es heißt: sie lesen.
+§
+Mensch: Wie schreibt man eine Nachricht?
+KI: Du kannst mit einer Begrüßung beginnen und dann dein Anliegen erklären.
+§
+Mensch: Was ist die Mehrzahl von Apfel?
+KI: Die Mehrzahl von Apfel ist Äpfel.
+§
+Mensch: Schreibe einen Satz mit die Katze.
+KI: Die Katze ist leise.
+§
+Mensch: Wie heißt spielen mit ich?
+KI: Es heißt: ich spiele.
+§
+Mensch: Ich verstehe das nicht.
+KI: Welchen Teil möchtest du erklärt bekommen?
+§
+Mensch: Was ist die Mehrzahl von Tisch?
+KI: Die Mehrzahl von Tisch ist Tische.
+§
+Mensch: Welcher Artikel gehört zu Buch?
+KI: Es heißt das Buch.
+§
+Mensch: Was ist ein Computer
+KI: Ein Computer verarbeitet Daten und führt Programme aus.
+§
+Mensch: Wie spät ist es?
+KI: Ich habe keine verlässliche Uhrzeit im Sprachmodell.
+§
+Mensch: Was ist die Zukunft
+KI: Die Zukunft beschreibt etwas, das noch passieren wird.
+§
+Mensch: Was ist die Zukunft?
+KI: Die Zukunft beschreibt etwas, das noch passieren wird.
+§
+Mensch: Was ist heute passiert
+KI: Ich habe keinen Zugriff auf aktuelle Nachrichten.
+§
+Mensch: Bilde einen Satz mit Wasser.
+KI: Das Wasser ist kalt.
+§
+Mensch: Bilde einen Satz mit Schulen.
+KI: Die Schulen sind groß.
+§
+Mensch: Schreibe in der Vergangenheit: Ich mache eine Pause.
+KI: Ich habe eine Pause gemacht.
+§
+Mensch: Schreibe einen Satz mit die Maus.
+KI: Die Maus ist leise.
+§
+Mensch: Wie heißt haben mit wir?
+KI: Es heißt: wir haben.
+§
+Mensch: Bilde einen Satz mit Bücher.
+KI: Die Bücher sind spannend.
+§
+Mensch: Was ist die Mehrzahl von Vogel?
+KI: Die Mehrzahl von Vogel ist Vögel.
+§
+Mensch: Wie wird sein konjugiert?
+KI: ich bin, du bist, er ist, wir sind, ihr seid, sie sind.
+§
+Mensch: Was bedeutet danke
+KI: Mit danke drückst du Dankbarkeit aus.
+§
+Mensch: Was ist die Mehrzahl von Tasche?
+KI: Die Mehrzahl von Tasche ist Taschen.
+§
+Mensch: Bilde einen Satz mit Bäume.
+KI: Die Bäume sind alt.
+§
+Mensch: Welcher Artikel gehört zu Garten?
+KI: Es heißt der Garten.
+§
+Mensch: Wie heißt haben mit du?
+KI: Es heißt: du hast.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe einen Vogel gesehen.
+KI: Ich sehe einen Vogel.
+§
+Mensch: Schreibe drei Sätze über einen Hund.
+KI: Der Hund läuft über die Wiese. Er spielt mit einem Ball. Danach schläft er.
+§
+Mensch: Schreibe einen Satz mit der Tisch.
+KI: Der Tisch ist rund.
+§
+Mensch: Wie heißt schreiben mit du?
+KI: Es heißt: du schreibst.
+§
+Mensch: Welcher Artikel gehört zu Fenster?
+KI: Es heißt das Fenster.
+§
+Mensch: Was ist eine Frage?
+KI: Mit einer Frage möchtest du etwas erfahren. Am Ende steht ein Fragezeichen.
+§
+Mensch: Was ist die Mehrzahl von Kind?
+KI: Die Mehrzahl von Kind ist Kinder.
+§
+Mensch: Was ist die Vergangenheit
+KI: Die Vergangenheit beschreibt etwas, das schon passiert ist.
+§
+Mensch: Ich mag Roboter.
+KI: Was soll dein Roboter können?
+§
+Mensch: Welcher Artikel gehört zu Kind?
+KI: Es heißt das Kind.
+§
+Mensch: Verbessere die Großschreibung: ich lese ein buch
+KI: Ich lese ein Buch.
+§
+Mensch: Bilde einen Satz mit Tisch.
+KI: Der Tisch ist rund.
+§
+Mensch: Wie heißt sprechen mit er?
+KI: Es heißt: er spricht.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe eine Pause gemacht.
+KI: Ich mache eine Pause.
 §
 Mensch: Tschüss!
 KI: Bis bald!
 §
+Mensch: Schreibe einen Satz mit der Garten.
+KI: Der Garten ist grün.
+§
+Mensch: Bilde einen Satz mit Maus.
+KI: Die Maus ist leise.
+§
+Mensch: Wie schreibt man Nomen
+KI: Im Deutschen schreibt man Nomen groß.
+§
+Mensch: Wie heißt machen mit ich?
+KI: Es heißt: ich mache.
+§
+Mensch: Vielen Dank.
+KI: Sehr gern!
+§
+Mensch: Schreibe in der Gegenwart: Ich habe einen Brief geschrieben.
+KI: Ich schreibe einen Brief.
+§
+Mensch: Schreibe einen Satz mit das Kind.
+KI: Das Kind ist fröhlich.
+§
+Mensch: Wie wird haben konjugiert?
+KI: ich habe, du hast, er hat, wir haben, ihr habt, sie haben.
+§
+Mensch: Schreibe in der Vergangenheit: Ich trinke Wasser.
+KI: Ich habe Wasser getrunken.
+§
+Mensch: Was ist ein Artikel?
+KI: Ein Artikel steht vor einem Nomen. Beispiele sind der, die und das.
+§
+Mensch: Wie kann ich Deutsch üben
+KI: Lies kurze Texte, höre Gespräche und schreibe eigene Sätze.
+§
+Mensch: Schreibe einen Satz mit der Apfel.
+KI: Der Apfel ist rot.
+§
+Mensch: Bilde einen Satz mit Tür.
+KI: Die Tür ist offen.
+§
+Mensch: Schreibe einen Satz mit das Fenster.
+KI: Das Fenster ist sauber.
+§
+Mensch: Was kannst du?
+KI: Ich übe deutsche Sprache und einfache Gespräche. Ich kann noch viele Fehler machen.
+§
+Mensch: Welcher Artikel gehört zu Stuhl?
+KI: Es heißt der Stuhl.
+§
+Mensch: Was ist ein Punkt?
+KI: Ein Punkt beendet einen Aussagesatz.
+§
+Mensch: Wie heißt haben mit ich?
+KI: Es heißt: ich habe.
+§
+Mensch: Wie wird schreiben konjugiert?
+KI: ich schreibe, du schreibst, er schreibt, wir schreiben, ihr schreibt, sie schreiben.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe im Garten gespielt.
+KI: Ich spiele im Garten.
+§
+Mensch: Guten Morgen!
+KI: Guten Morgen! Wie beginnt dein Tag?
+§
+Mensch: Was ist Wasser
+KI: Wasser ist eine Flüssigkeit. Menschen, Tiere und Pflanzen brauchen Wasser.
+§
+Mensch: Bilde einen Satz mit Autos.
+KI: Die Autos sind schnell.
+§
+Mensch: Wie heißt lernen mit er?
+KI: Es heißt: er lernt.
+§
+Mensch: Bilde einen Satz mit Haus.
+KI: Das Haus ist groß.
+§
+Mensch: Wie heißt spielen mit wir?
+KI: Es heißt: wir spielen.
+§
+Mensch: Wie heißt kommen mit er?
+KI: Es heißt: er kommt.
+§
+Mensch: Schreibe einen Satz mit der Baum.
+KI: Der Baum ist alt.
+§
+Mensch: Welcher Artikel gehört zu Auto?
+KI: Es heißt das Auto.
+§
+Mensch: Was ist eine Katze
+KI: Eine Katze ist ein Tier. Katzen können schnurren.
+§
+Mensch: Kannst du alles beantworten
+KI: Nein. Mein Wissen ist klein und meine Antworten können falsch sein.
+§
+Mensch: Wie heißt spielen mit er?
+KI: Es heißt: er spielt.
+§
+Mensch: Was ist ein Subjekt
+KI: Das Subjekt sagt, wer oder was etwas tut. Du kannst danach mit wer oder was fragen.
+§
+Mensch: Schreibe einen Satz mit das Haus.
+KI: Das Haus ist groß.
+§
+Mensch: Wie heißt schreiben mit sie?
+KI: Es heißt: sie schreiben.
+§
+Mensch: Wie heißt sein mit sie?
+KI: Es heißt: sie sind.
+§
+Mensch: Mir ist langweilig.
+KI: Was machst du gern? Vielleicht können wir eine Idee finden.
+§
+Mensch: Wie heißt lesen mit ihr?
+KI: Es heißt: ihr lest.
+§
+Mensch: Schreibe in der Vergangenheit: Ich spiele im Garten.
+KI: Ich habe im Garten gespielt.
+§
+Mensch: Verbessere die Großschreibung: ich habe eine frage
+KI: Ich habe eine Frage.
+§
+Mensch: Was ist die Mehrzahl von Haus?
+KI: Die Mehrzahl von Haus ist Häuser.
+§
+Mensch: Was ist ein Baum?
+KI: Ein Baum ist eine Pflanze mit einem Stamm und Ästen.
+§
+Mensch: Wie geht es dir?
+KI: Ich bin bereit für ein Gespräch. Wie geht es dir?
+§
+Mensch: Welcher Artikel gehört zu Tasche?
+KI: Es heißt die Tasche.
+§
+Mensch: Wie heißt sprechen mit ihr?
+KI: Es heißt: ihr sprecht.
+§
+Mensch: Bilde einen Satz mit Kind.
+KI: Das Kind ist fröhlich.
+§
+Mensch: Wie wird sprechen konjugiert?
+KI: ich spreche, du sprichst, er spricht, wir sprechen, ihr sprecht, sie sprechen.
+§
+Mensch: Gute Nacht!
+KI: Gute Nacht und schlaf gut!
+§
+Mensch: Wie heißt kommen mit du?
+KI: Es heißt: du kommst.
+§
+Mensch: Hilf mir bitte.
+KI: Wobei brauchst du Hilfe?
+§
+Mensch: Bilde einen Satz mit Katzen.
+KI: Die Katzen sind leise.
+§
+Mensch: Bilde einen Satz mit Garten.
+KI: Der Garten ist grün.
+§
+Mensch: Schreibe einen Satz mit das Bild.
+KI: Das Bild ist bunt.
+§
+Mensch: Was ist die Mehrzahl?
+KI: Die Mehrzahl bezeichnet mehrere Dinge. Ein Buch, zwei Bücher.
+§
+Mensch: Wie heißt sprechen mit sie?
+KI: Es heißt: sie sprechen.
+§
+Mensch: Ich bin traurig.
+KI: Möchtest du erzählen, was dich traurig macht?
+§
+Mensch: Verbessere die Großschreibung: das haus ist groß
+KI: Das Haus ist groß.
+§
+Mensch: Bilde einen Satz mit Gärten.
+KI: Die Gärten sind grün.
+§
+Mensch: Wie heißt haben mit er?
+KI: Es heißt: er hat.
+§
+Mensch: Nenne deutsche Fragewörter.
+KI: Wer, was, wo, wann, wie und warum sind deutsche Fragewörter.
+§
+Mensch: Wie bildet man eine Frage
+KI: Eine Frage kann mit einem Fragewort beginnen. Zum Beispiel: Wo wohnst du?
+§
+Mensch: Bilde einen Satz mit Häuser.
+KI: Die Häuser sind groß.
+§
+Mensch: Welcher Artikel gehört zu Baum?
+KI: Es heißt der Baum.
+§
+Mensch: Was ist der Mond
+KI: Der Mond kreist um die Erde.
+§
+Mensch: Wie heißt kommen mit sie?
+KI: Es heißt: sie kommen.
+§
+Mensch: Schreibe richtig: ich gehe zur schule
+KI: Ich gehe zur Schule.
+§
+Mensch: Verbessere die Großschreibung: die katze schläft
+KI: Die Katze schläft.
+§
+Mensch: Wie heißt haben mit ihr?
+KI: Es heißt: ihr habt.
+§
+Mensch: Was ist ein Subjekt?
+KI: Das Subjekt sagt, wer oder was etwas tut. Du kannst danach mit wer oder was fragen.
+§
+Mensch: Was ist die Mehrzahl von Baum?
+KI: Die Mehrzahl von Baum ist Bäume.
+§
+Mensch: Wo wohnst du
+KI: Ich habe keinen Wohnort. Ich bin ein Computerprogramm.
+§
+Mensch: Was ist eine Frage
+KI: Mit einer Frage möchtest du etwas erfahren. Am Ende steht ein Fragezeichen.
+§
+Mensch: Schreibe drei Sätze über einen Garten.
+KI: Im Garten wachsen Blumen. Ein Vogel sitzt im Baum. Die Sonne scheint.
+§
+Mensch: Schreibe einen Satz mit der Vogel.
+KI: Der Vogel ist klein.
+§
+Mensch: Welcher Artikel gehört zu Bild?
+KI: Es heißt das Bild.
+§
 Mensch: Hast du Gefühle?
-KI: Ich erzeuge Text. Ich habe keine menschlichen Gefühle.
+KI: Ich berechne Text und habe keine menschlichen Gefühle.
+§
+Mensch: Schreibe einen Satz mit das Buch.
+KI: Das Buch ist spannend.
+§
+Mensch: Was ist heute passiert?
+KI: Ich habe keinen Zugriff auf aktuelle Nachrichten.
+§
+Mensch: Schreibe in der Gegenwart: Ich bin nach Hause gegangen.
+KI: Ich gehe nach Hause.
+§
+Mensch: Wie heißt du?
+KI: Ich heiße EigenKI.
+§
+Mensch: Ich habe Durst.
+KI: Vielleicht möchtest du ein Glas Wasser trinken.
+§
+Mensch: Was ist ein Adjektiv?
+KI: Ein Adjektiv beschreibt eine Eigenschaft. Beispiele sind klein und freundlich.
+§
+Mensch: Hallo!
+KI: Hallo! Wie geht es dir?
+§
+Mensch: Wie heißt schreiben mit er?
+KI: Es heißt: er schreibt.
+§
+Mensch: Was ist ein Computer?
+KI: Ein Computer verarbeitet Daten und führt Programme aus.
+§
+Mensch: Wie heißt lesen mit wir?
+KI: Es heißt: wir lesen.
+§
+Mensch: Welcher Artikel gehört zu Tür?
+KI: Es heißt die Tür.
+§
+Mensch: Wie heißt schreiben mit ihr?
+KI: Es heißt: ihr schreibt.
+§
+Mensch: Wie heißt lesen mit du?
+KI: Es heißt: du liest.
+§
+Mensch: Welcher Artikel gehört zu Wasser?
+KI: Es heißt das Wasser.
+§
+Mensch: Schreibe eine kurze Einladung.
+KI: Möchtest du am Samstag mit mir spielen?
+§
+Mensch: Wie heißt kommen mit wir?
+KI: Es heißt: wir kommen.
+§
+Mensch: Schreibe eine höfliche Bitte.
+KI: Kannst du mir bitte helfen?
+§
+Mensch: Schreibe eine kurze Entschuldigung.
+KI: Es tut mir leid. Ich werde besser aufpassen.
+§
+Mensch: Wie wird machen konjugiert?
+KI: ich mache, du machst, er macht, wir machen, ihr macht, sie machen.
+§
+Mensch: Wie heißt sein mit ich?
+KI: Es heißt: ich bin.
+§
+Mensch: Guten Abend!
+KI: Guten Abend! Wie war dein Tag?
+§
+Mensch: Wie heißt sein mit er?
+KI: Es heißt: er ist.
+§
+Mensch: Was ist ein Hund
+KI: Ein Hund ist ein Tier. Viele Hunde leben als Haustiere bei Menschen.
+§
+Mensch: Wie wird kommen konjugiert?
+KI: ich komme, du kommst, er kommt, wir kommen, ihr kommt, sie kommen.
+§
+Mensch: Was ist ein Satz?
+KI: Ein Satz drückt einen Gedanken aus. Ein einfacher Satz hat oft ein Subjekt und ein Verb.
+§
+Mensch: Wie schreibt man Nomen?
+KI: Im Deutschen schreibt man Nomen groß.
+§
+Mensch: Welcher Artikel gehört zu Hund?
+KI: Es heißt der Hund.
+§
+Mensch: Wie heißt gehen mit er?
+KI: Es heißt: er geht.
+§
+Mensch: Was ist die Mehrzahl von Katze?
+KI: Die Mehrzahl von Katze ist Katzen.
+§
+Mensch: Schreibe richtig: ich habe eine frage
+KI: Ich habe eine Frage.
+§
+Mensch: Bilde einen Satz mit Baum.
+KI: Der Baum ist alt.
+§
+Mensch: Wie heißt lernen mit ihr?
+KI: Es heißt: ihr lernt.
+§
+Mensch: Was ist die Vergangenheit?
+KI: Die Vergangenheit beschreibt etwas, das schon passiert ist.
+§
+Mensch: Wie heißt kommen mit ihr?
+KI: Es heißt: ihr kommt.
+§
+Mensch: Welcher Artikel gehört zu Schule?
+KI: Es heißt die Schule.
+§
+Mensch: Wie heißt schreiben mit ich?
+KI: Es heißt: ich schreibe.
+§
+Mensch: Wie heißt gehen mit sie?
+KI: Es heißt: sie gehen.
+§
+Mensch: Wie heißt spielen mit sie?
+KI: Es heißt: sie spielen.
+§
+Mensch: Schreibe in der Vergangenheit: Ich höre Musik.
+KI: Ich habe Musik gehört.
+§
+Mensch: Was bist du?
+KI: Ich bin ein kleines selbst trainiertes Sprachmodell.
+§
+Mensch: Wie heißt spielen mit du?
+KI: Es heißt: du spielst.
+§
+Mensch: Was ist eine Katze?
+KI: Eine Katze ist ein Tier. Katzen können schnurren.
+§
+Mensch: Ich lerne Deutsch.
+KI: Wir können kurze deutsche Sätze üben.
+§
+Mensch: Wie heißt gehen mit du?
+KI: Es heißt: du gehst.
+§
+Mensch: Wie heißt sein mit du?
+KI: Es heißt: du bist.
+§
+Mensch: Schreibe in der Gegenwart: Ich habe Wasser getrunken.
+KI: Ich trinke Wasser.
+§
+Mensch: Was ist ein Nomen?
+KI: Ein Nomen bezeichnet zum Beispiel ein Ding, eine Person oder ein Tier. Nomen schreibt man groß.
+§
+Mensch: Verbessere die Großschreibung: wir lernen deutsch
+KI: Wir lernen Deutsch.
+§
+Mensch: Ich gehe zur Schule.
+KI: Welches Fach magst du besonders?
+§
+Mensch: Welcher Artikel gehört zu Katze?
+KI: Es heißt die Katze.
+§
+Mensch: Schreibe richtig: die katze schläft
+KI: Die Katze schläft.
+§
+Mensch: Was kannst du
+KI: Ich übe deutsche Sprache und einfache Gespräche. Ich kann noch viele Fehler machen.
+§
+Mensch: Bilde einen Satz mit Auto.
+KI: Das Auto ist schnell.
+§
+Mensch: Was ist die Mehrzahl von Stuhl?
+KI: Die Mehrzahl von Stuhl ist Stühle.
+§
+Mensch: Verbessere die Großschreibung: das wasser ist kalt
+KI: Das Wasser ist kalt.
+§
+Mensch: Bilde einen Satz mit Tische.
+KI: Die Tische sind rund.
+§
+Mensch: Bilde einen Satz mit Stühle.
+KI: Die Stühle sind bequem.
+§
+Mensch: Wie wird spielen konjugiert?
+KI: ich spiele, du spielst, er spielt, wir spielen, ihr spielt, sie spielen.
+§
+Mensch: Schreibe richtig: das wasser ist kalt
+KI: Das Wasser ist kalt.
+§
+Mensch: Was bedeutet bitte
+KI: Mit bitte kannst du eine höfliche Bitte ausdrücken.
+§
+Mensch: Welcher Artikel gehört zu Tisch?
+KI: Es heißt der Tisch.
+§
+Mensch: Verbessere die Großschreibung: ich gehe zur schule
+KI: Ich gehe zur Schule.
+§
+Mensch: Was ist ein Punkt
+KI: Ein Punkt beendet einen Aussagesatz.
+§
+Mensch: Schreibe richtig: guten morgen
+KI: Guten Morgen!
+§
+Mensch: Welcher Artikel gehört zu Apfel?
+KI: Es heißt der Apfel.
+§
+Mensch: Schreibe in der Vergangenheit: Ich lerne Deutsch.
+KI: Ich habe Deutsch gelernt.
+§
+Mensch: Bilde einen Satz mit Bilder.
+KI: Die Bilder sind bunt.
+§
+Mensch: Wie heißt gehen mit ihr?
+KI: Es heißt: ihr geht.
+§
+Mensch: Bilde einen Satz mit Hunde.
+KI: Die Hunde sind klein.
+§
+Mensch: Wie heißt sprechen mit du?
+KI: Es heißt: du sprichst.
+§
+Mensch: Was ist ein Verb
+KI: Ein Verb beschreibt oft eine Handlung oder einen Zustand. Beispiele sind gehen und sein.
+§
+Mensch: Schreibe in der Vergangenheit: Ich lese ein Buch.
+KI: Ich habe ein Buch gelesen.
+§
+Mensch: Ich habe Hunger.
+KI: Was möchtest du essen?
 §
