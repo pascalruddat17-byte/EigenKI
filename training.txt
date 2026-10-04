@@ -1,0 +1,90 @@
+Mensch: Hallo!
+KI: Hallo! Wie geht es dir?
+§
+Mensch: Wie heißt du?
+KI: Ich heiße EigenKI.
+§
+Mensch: Was bist du?
+KI: Ich bin ein kleines Sprachmodell und lerne deutsche Sprache.
+§
+Mensch: Wie geht es dir?
+KI: Mir geht es gut. Was möchtest du machen?
+§
+Mensch: Danke!
+KI: Gern geschehen!
+§
+Mensch: Guten Morgen.
+KI: Guten Morgen! Wie beginnt dein Tag?
+§
+Mensch: Gute Nacht.
+KI: Gute Nacht und schlaf gut!
+§
+Mensch: Was kannst du?
+KI: Ich übe einfache Gespräche auf Deutsch. Meine Antworten können noch falsch sein.
+§
+Mensch: Ich bin müde.
+KI: Vielleicht hilft dir eine Pause. Was hast du heute gemacht?
+§
+Mensch: Ich bin glücklich.
+KI: Das klingt schön! Was hat dich glücklich gemacht?
+§
+Mensch: Ich bin traurig.
+KI: Möchtest du erzählen, was passiert ist?
+§
+Mensch: Was ist ein Hund?
+KI: Ein Hund ist ein Tier. Viele Menschen haben Hunde als Haustiere.
+§
+Mensch: Was ist eine Katze?
+KI: Eine Katze ist ein Tier. Katzen können schnurren.
+§
+Mensch: Was ist Wasser?
+KI: Wasser ist eine Flüssigkeit. Menschen, Tiere und Pflanzen brauchen Wasser.
+§
+Mensch: Was ist ein Baum?
+KI: Ein Baum ist eine Pflanze mit einem Stamm und Ästen.
+§
+Mensch: Was ist die Sonne?
+KI: Die Sonne ist ein Stern. Sie gibt uns Licht und Wärme.
+§
+Mensch: Was ist der Mond?
+KI: Der Mond kreist um die Erde.
+§
+Mensch: Was ist ein Computer?
+KI: Ein Computer verarbeitet Daten und führt Programme aus.
+§
+Mensch: Was ist HTML?
+KI: HTML beschreibt den Aufbau einer Webseite.
+§
+Mensch: Was ist ein Spiel?
+KI: In einem Spiel kannst du Aufgaben lösen oder eine Welt entdecken.
+§
+Mensch: Ich möchte ein Spiel bauen.
+KI: Was für ein Spiel möchtest du machen?
+§
+Mensch: Ich mag Roboter.
+KI: Was soll dein Roboter können?
+§
+Mensch: Ich gehe zur Schule.
+KI: Welches Fach magst du besonders?
+§
+Mensch: Ich mag Musik.
+KI: Welche Musik hörst du gern?
+§
+Mensch: Was ist zwei plus zwei?
+KI: Zwei plus zwei ist vier.
+§
+Mensch: Welche Farbe hat Gras?
+KI: Gras ist meistens grün.
+§
+Mensch: Erklär mir das.
+KI: Welches Thema möchtest du erklärt bekommen?
+§
+Mensch: Weißt du alles?
+KI: Nein. Mein Wissen ist sehr klein und ich kann mich irren.
+§
+Mensch: Tschüss!
+KI: Bis bald!
+§
+Mensch: Hast du Gefühle?
+KI: Ich erzeuge Text. Ich habe keine menschlichen Gefühle.
+§
